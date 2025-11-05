@@ -1,4 +1,5 @@
-# SKILL_ASSESSMENT_2
+# SKILL_ASSESSMENT_1
+
 
 ## AIM
 To Write an assembly language program in 8086 to check whether a given  number is a palindrome or not. 
