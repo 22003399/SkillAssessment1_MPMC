@@ -107,13 +107,16 @@ OUTPUT
 <img width="640" height="418" alt="image" src="https://github.com/user-attachments/assets/4d96eb2c-7b80-40c5-9502-21402fbef334" />
 
 Palindrome
+
 <img width="643" height="417" alt="palindrome" src="https://github.com/user-attachments/assets/193d522b-e0a1-4cc6-83c9-1d9d79227a74" />
+
 Not Palindrome
+
 <img width="635" height="382" alt="image" src="https://github.com/user-attachments/assets/f5e048ba-ee9b-45b7-b814-b4cb6eda5159" />
 
 
 
-RESULT
+### RESULT
 
 Thus, the Assembly Language Program for 8086 microprocessor to find the Palindrome or not was successfully written and executed using MASM/EMU8086.
 
